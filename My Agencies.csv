@@ -1,0 +1,129 @@
+State,County,Agency Name,Ori,Division Name,Region Name,Region Description,Agency Type Name,NIBRS,NIBRS Start Date,Latitude,Longitude
+New Mexico,BERNALILLO,Bernalillo County Sheriff's Office,NM0010000,Mountain,West,Region IV,County,TRUE,2019-01-02T00:00:00.000Z,35.054002,-106.669064
+New Mexico,BERNALILLO,Albuquerque Police Department,NM0010100,Mountain,West,Region IV,City,TRUE,2018-01-02T00:00:00.000Z,35.089184,-106.65081
+New Mexico,BERNALILLO,University of New Mexico,NM0010200,Mountain,West,Region IV,University or College,TRUE,2020-09-02T00:00:00.000Z,35.054002,-106.669064
+New Mexico,CATRON,Catron County Sheriff's Office,NM0020000,Mountain,West,Region IV,County,FALSE,,33.901813,-108.392097
+New Mexico,CHAVES,Chaves County Sheriff's Office,NM0030000,Mountain,West,Region IV,County,TRUE,2021-01-02T00:00:00.000Z,33.361604,-104.469837
+New Mexico,CHAVES,Roswell Police Department,NM0030100,Mountain,West,Region IV,City,FALSE,,33.361604,-104.469837
+New Mexico,CHAVES,Dexter Police Department,NM0030200,Mountain,West,Region IV,City,FALSE,,33.361604,-104.469837
+New Mexico,CHAVES,New Mexico Military Institute,NM0030400,Mountain,West,Region IV,University or College,FALSE,,33.408695,-104.52283
+New Mexico,COLFAX,Colfax County Sheriff's Office,NM0040000,Mountain,West,Region IV,County,TRUE,2021-01-02T00:00:00.000Z,36.612962,-104.640126
+New Mexico,COLFAX,Raton Police Department,NM0040100,Mountain,West,Region IV,City,FALSE,,36.90456,-104.43978
+New Mexico,COLFAX,Cimarron Police Department,NM0040200,Mountain,West,Region IV,City,FALSE,,36.612962,-104.640126
+New Mexico,COLFAX,Springer Police Department,NM0040300,Mountain,West,Region IV,City,FALSE,,36.612962,-104.640126
+New Mexico,COLFAX,Angel Fire Police Department,NM0040500,Mountain,West,Region IV,City,TRUE,2020-09-02T00:00:00.000Z,36.612962,-104.640126
+New Mexico,CURRY,Curry County Sheriff's Office,NM0050000,Mountain,West,Region IV,County,FALSE,,34.572984,-103.346055
+New Mexico,CURRY,Clovis Police Department,NM0050100,Mountain,West,Region IV,City,FALSE,,34.572984,-103.346055
+New Mexico,CURRY,Texico Police Department,NM0050300,Mountain,West,Region IV,City,FALSE,,34.572984,-103.346055
+New Mexico,DE BACA,De Baca County Sheriff's Office,NM0060000,Mountain,West,Region IV,County,FALSE,,34.359269,-104.368692
+New Mexico,DONA ANA,Dona Ana County Sheriff's Office,NM0070000,Mountain,West,Region IV,County,TRUE,2019-01-02T00:00:00.000Z,32.350912,-106.832182
+New Mexico,DONA ANA,Las Cruces Police Department,NM0070100,Mountain,West,Region IV,City,TRUE,2018-01-02T00:00:00.000Z,32.316395,-106.77963
+New Mexico,DONA ANA,Anthony Police Department,NM0070200,Mountain,West,Region IV,City,FALSE,,32.350912,-106.832182
+New Mexico,DONA ANA,Hatch Police Department,NM0070300,Mountain,West,Region IV,City,FALSE,,32.350912,-106.832182
+New Mexico,DONA ANA,New Mexico State University,NM0070400,Mountain,West,Region IV,University or College,TRUE,2020-11-02T00:00:00.000Z,32.350912,-106.832182
+New Mexico,DONA ANA,Mesilla Police Department,NM0070500,Mountain,West,Region IV,City,FALSE,,32.350912,-106.832182
+New Mexico,DONA ANA,Sunland Park Police Department,NM0070600,Mountain,West,Region IV,City,TRUE,2019-01-02T00:00:00.000Z,31.795942,-106.555046
+New Mexico,EDDY,Eddy County Sheriff's Office,NM0080000,Mountain,West,Region IV,County,FALSE,,32.420414,-104.22896
+New Mexico,EDDY,Artesia Police Department,NM0080100,Mountain,West,Region IV,City,TRUE,2021-01-02T00:00:00.000Z,32.457858,-104.306471
+New Mexico,EDDY,Carlsbad Police Department,NM0080200,Mountain,West,Region IV,City,TRUE,2020-01-02T00:00:00.000Z,32.457858,-104.306471
+New Mexico,EDDY,Loving Police Department,NM0080300,Mountain,West,Region IV,City,FALSE,,32.457858,-104.306471
+New Mexico,EDDY,Hope,NM0080500,Mountain,West,Region IV,City,FALSE,,32.457858,-104.306471
+New Mexico,GRANT,Grant County Sheriff's Office,NM0090000,Mountain,West,Region IV,County,FALSE,,32.783188,-108.265976
+New Mexico,GRANT,Silver City Police Department,NM0090100,Mountain,West,Region IV,City,FALSE,,32.732087,-108.381504
+New Mexico,GRANT,Bayard Police Department,NM0090200,Mountain,West,Region IV,City,FALSE,,32.732087,-108.381504
+New Mexico,GRANT,Santa Clara Police Department,NM0090300,Mountain,West,Region IV,City,FALSE,,32.732087,-108.381504
+New Mexico,GRANT,Hurley Police Department,NM0090400,Mountain,West,Region IV,City,FALSE,,32.732087,-108.381504
+New Mexico,GRANT,Western New Mexico University,NM0090500,Mountain,West,Region IV,University or College,FALSE,,32.732087,-108.381504
+New Mexico,GUADALUPE,Guadalupe County Sheriff's Office,NM0100000,Mountain,West,Region IV,County,FALSE,,34.932644,-104.69177
+New Mexico,GUADALUPE,Santa Rosa Police Department,NM0100100,Mountain,West,Region IV,City,FALSE,,34.94059,-104.686
+New Mexico,HARDING,Harding County Sheriff's Office,NM0110000,Mountain,West,Region IV,County,FALSE,,35.85881,-103.850821
+New Mexico,HIDALGO,Hidalgo County Sheriff's Office,NM0120000,Mountain,West,Region IV,County,FALSE,,31.899658,-108.745729
+New Mexico,HIDALGO,Lordsburg Police Department,NM0120100,Mountain,West,Region IV,City,FALSE,,32.34445,-108.713394
+New Mexico,LEA,Lea County Sheriff's Office,NM0130000,Mountain,West,Region IV,County,TRUE,2020-10-02T00:00:00.000Z,32.935955,-103.341995
+New Mexico,LEA,Eunice Police Department,NM0130100,Mountain,West,Region IV,City,FALSE,,32.795687,-103.413271
+New Mexico,LEA,Hobbs Police Department,NM0130200,Mountain,West,Region IV,City,TRUE,2020-01-02T00:00:00.000Z,32.702976,-103.13619
+New Mexico,LEA,Jal Police Department,NM0130300,Mountain,West,Region IV,City,FALSE,,32.795687,-103.413271
+New Mexico,LEA,Lovington Police Department,NM0130400,Mountain,West,Region IV,City,FALSE,,32.946884,-103.3474
+New Mexico,LEA,Tatum Police Department,NM0130500,Mountain,West,Region IV,City,FALSE,,32.795687,-103.413271
+New Mexico,LINCOLN,Lincoln County Sheriff's Office,NM0140000,Mountain,West,Region IV,County,FALSE,,33.740941,-105.449083
+New Mexico,LINCOLN,Ruidoso Police Department,NM0140100,Mountain,West,Region IV,City,FALSE,,33.352177,-105.67355
+New Mexico,LINCOLN,Carrizozo Police Department,NM0140200,Mountain,West,Region IV,City,FALSE,,33.740941,-105.449083
+New Mexico,LINCOLN,Ruidoso Downs Police Department,NM0140300,Mountain,West,Region IV,City,FALSE,,33.740941,-105.449083
+New Mexico,LINCOLN,Capitan Police Department,NM0140400,Mountain,West,Region IV,City,FALSE,,33.740941,-105.449083
+New Mexico,LOS ALAMOS,Los Alamos Police Department,NM0150100,Mountain,West,Region IV,City,FALSE,,35.870047,-106.307968
+New Mexico,LUNA,Luna County Sheriff's Office,NM0160000,Mountain,West,Region IV,County,FALSE,,32.184295,-107.746922
+New Mexico,LUNA,Deming Police Department,NM0160100,Mountain,West,Region IV,City,FALSE,,32.269485,-107.75179
+New Mexico,MCKINLEY,McKinley County Sheriff's Office,NM0170000,Mountain,West,Region IV,County,TRUE,2020-11-02T00:00:00.000Z,35.50843,-108.733536
+New Mexico,MCKINLEY,Gallup Police Department,NM0170100,Mountain,West,Region IV,City,TRUE,2020-07-02T00:00:00.000Z,35.526714,-108.74098
+New Mexico,NOT SPECIFIED,Zuni Tribal,NM0170300,Mountain,West,Region IV,Tribal,TRUE,2021-01-01T00:00:00.000Z,35.573874,-108.255158
+New Mexico,NOT SPECIFIED,Ramah Navajo Tribal,NM0170400,Mountain,West,Region IV,Tribal,TRUE,2021-01-01T00:00:00.000Z,35.573874,-108.255158
+New Mexico,MORA,Mora County Sheriff's Office,NM0180000,Mountain,West,Region IV,County,FALSE,,35.982841,-104.921898
+New Mexico,OTERO,Otero County Sheriff's Office,NM0190000,Mountain,West,Region IV,County,FALSE,,32.588776,-105.781079
+New Mexico,OTERO,Alamogordo Police Department,NM0190100,Mountain,West,Region IV,City,FALSE,,32.896988,-105.9556
+New Mexico,OTERO,Tularosa Police Department,NM0190200,Mountain,West,Region IV,City,FALSE,,32.588776,-105.781079
+New Mexico,OTERO,Cloudcroft Police Department,NM0190300,Mountain,West,Region IV,City,FALSE,,32.588776,-105.781079
+New Mexico,QUAY,Quay County Sheriff's Office,NM0200000,Mountain,West,Region IV,County,TRUE,2021-01-02T00:00:00.000Z,35.107018,-103.548071
+New Mexico,QUAY,Tucumcari Police Department,NM0200100,Mountain,West,Region IV,City,FALSE,,35.107018,-103.548071
+New Mexico,QUAY,Logan Police Department,NM0200200,Mountain,West,Region IV,City,TRUE,2020-01-02T00:00:00.000Z,35.107018,-103.548071
+New Mexico,RIO ARRIBA,Rio Arriba County Sheriff's Office,NM0210000,Mountain,West,Region IV,County,FALSE,,36.509669,-106.693983
+New Mexico,"RIO ARRIBA, SANTA FE",Espanola Police Department,NM0210100,Mountain,West,Region IV,City,FALSE,,36.509669,-106.693983
+New Mexico,NOT SPECIFIED,Jicarilla Apache Tribal,NM0210300,Mountain,West,Region IV,Tribal,TRUE,2021-01-01T00:00:00.000Z,36.509669,-106.693983
+New Mexico,NOT SPECIFIED,Ohkay Owingeh Tribal,NM0210400,Mountain,West,Region IV,Tribal,FALSE,,36.509669,-106.693983
+New Mexico,NOT SPECIFIED,Santa Clara Pueblo,NM0210500,Mountain,West,Region IV,Tribal,TRUE,2021-01-01T00:00:00.000Z,36.509669,-106.693983
+New Mexico,ROOSEVELT,Roosevelt County Sheriff's Office,NM0220000,Mountain,West,Region IV,County,FALSE,,34.147217,-103.39699
+New Mexico,ROOSEVELT,Portales Police Department,NM0220100,Mountain,West,Region IV,City,FALSE,,34.197777,-103.334984
+New Mexico,ROOSEVELT,Eastern New Mexico University,NM0220200,Mountain,West,Region IV,University or College,TRUE,2020-01-02T00:00:00.000Z,34.021457,-103.482725
+New Mexico,SANDOVAL,Sandoval County Sheriff's Office,NM0230000,Mountain,West,Region IV,County,FALSE,,35.685071,-106.882619
+New Mexico,SANDOVAL,Bernalillo Police Department,NM0230100,Mountain,West,Region IV,City,FALSE,,35.685071,-106.882619
+New Mexico,SANDOVAL,Cuba Police Department,NM0230200,Mountain,West,Region IV,City,FALSE,,35.685071,-106.882619
+New Mexico,SANDOVAL,Corrales Police Department,NM0230300,Mountain,West,Region IV,City,FALSE,,35.22278,-106.616104
+New Mexico,"BERNALILLO, SANDOVAL",Rio Rancho Police Department,NM0230600,Mountain,West,Region IV,City,FALSE,,35.268604,-106.634796
+New Mexico,SANDOVAL,San Ysidro Police Department,NM0230700,Mountain,West,Region IV,City,FALSE,,35.685071,-106.882619
+New Mexico,NOT SPECIFIED,Santa Ana Tribal,NM0230800,Mountain,West,Region IV,Tribal,TRUE,2021-01-01T00:00:00.000Z,35.344135,-106.53136
+New Mexico,SAN JUAN,San Juan County Sheriff's Office,NM0240000,Mountain,West,Region IV,County,TRUE,2020-01-02T00:00:00.000Z,36.825977,-108.02076
+New Mexico,SAN JUAN,Aztec Police Department,NM0240100,Mountain,West,Region IV,City,TRUE,2020-01-02T00:00:00.000Z,36.822765,-107.9963
+New Mexico,SAN JUAN,Farmington Police Department,NM0240200,Mountain,West,Region IV,City,TRUE,2019-09-02T00:00:00.000Z,36.73906,-108.215805
+New Mexico,SAN JUAN,Bloomfield Police Department,NM0240300,Mountain,West,Region IV,City,TRUE,2020-01-02T00:00:00.000Z,36.71903,-107.97912
+New Mexico,SAN MIGUEL,San Miguel County Sheriff's Office,NM0250000,Mountain,West,Region IV,County,FALSE,,35.476876,-104.803515
+New Mexico,SAN MIGUEL,Las Vegas Police Department,NM0250100,Mountain,West,Region IV,City,FALSE,,35.591564,-105.22732
+New Mexico,SAN MIGUEL,New Mexico Highlands University,NM0250300,Mountain,West,Region IV,University or College,FALSE,,35.476876,-104.803515
+New Mexico,SANTA FE,Santa Fe County Sheriff's Office,NM0260000,Mountain,West,Region IV,County,FALSE,,35.513731,-105.966439
+New Mexico,SANTA FE,Santa Fe Police Department,NM0260100,Mountain,West,Region IV,City,FALSE,,35.513731,-105.966439
+New Mexico,NOT SPECIFIED,Tesuque Pueblo,NM0260700,Mountain,West,Region IV,Tribal,TRUE,2021-01-01T00:00:00.000Z,35.513731,-105.966439
+New Mexico,"BERNALILLO, SANTA FE",Edgewood Police Department,NM0261200,Mountain,West,Region IV,City,FALSE,,35.513731,-105.966439
+New Mexico,SIERRA,Sierra County Sheriff's Office,NM0270000,Mountain,West,Region IV,County,TRUE,2020-11-02T00:00:00.000Z,33.119479,-107.188161
+New Mexico,SIERRA,Truth or Consequences Police Department,NM0270100,Mountain,West,Region IV,City,FALSE,,33.129433,-107.255806
+New Mexico,SOCORRO,Socorro County Sheriff's Office,NM0280000,Mountain,West,Region IV,County,TRUE,2020-01-02T00:00:00.000Z,33.991614,-106.939003
+New Mexico,SOCORRO,Socorro Police Department,NM0280100,Mountain,West,Region IV,City,FALSE,,33.991614,-106.939003
+New Mexico,SOCORRO,Magdalena Police Department,NM0280200,Mountain,West,Region IV,City,FALSE,,33.991614,-106.939003
+New Mexico,SOCORRO,New Mexico Institute of Mining and Technology,NM0280300,Mountain,West,Region IV,University or College,FALSE,,34.065002,-106.903435
+New Mexico,TAOS,Taos County Sheriff's Office,NM0290000,Mountain,West,Region IV,County,FALSE,,36.576529,-105.637986
+New Mexico,TAOS,Taos Police Department,NM0290100,Mountain,West,Region IV,City,FALSE,,36.409138,-105.57204
+New Mexico,TAOS,Questa Police Department,NM0290200,Mountain,West,Region IV,City,FALSE,,36.576529,-105.637986
+New Mexico,TAOS,Red River Police Department,NM0290300,Mountain,West,Region IV,City,FALSE,,36.576529,-105.637986
+New Mexico,NOT SPECIFIED,Taos Pueblo,NM0290400,Mountain,West,Region IV,Tribal,FALSE,2021-01-01T00:00:00.000Z,36.576529,-105.637986
+New Mexico,TAOS,Taos Ski Valley Police Department,NM0290500,Mountain,West,Region IV,City,FALSE,,36.576529,-105.637986
+New Mexico,TORRANCE,Torrance County Sheriff's Office,NM0300000,Mountain,West,Region IV,County,FALSE,,34.554466,-105.887952
+New Mexico,TORRANCE,Estancia Police Department,NM0300200,Mountain,West,Region IV,City,FALSE,,34.554466,-105.887952
+New Mexico,TORRANCE,Moriarty Police Department,NM0300300,Mountain,West,Region IV,City,FALSE,,34.554466,-105.887952
+New Mexico,TORRANCE,Mountainair Police Department,NM0300400,Mountain,West,Region IV,City,FALSE,,34.554466,-105.887952
+New Mexico,UNION,Union County Sheriff's Office,NM0310000,Mountain,West,Region IV,County,FALSE,,36.488085,-103.475723
+New Mexico,UNION,Clayton Police Department,NM0310100,Mountain,West,Region IV,City,FALSE,,36.452724,-103.186264
+New Mexico,VALENCIA,Valencia County Sheriff's Office,NM0320000,Mountain,West,Region IV,County,TRUE,2021-01-02T00:00:00.000Z,34.71684,-106.806582
+New Mexico,VALENCIA,Belen Police Department,NM0320100,Mountain,West,Region IV,City,FALSE,,34.660484,-106.774734
+New Mexico,VALENCIA,Los Lunas Police Department,NM0320300,Mountain,West,Region IV,City,TRUE,2021-01-02T00:00:00.000Z,34.71684,-106.806582
+New Mexico,VALENCIA,Bosque Farms Police Department,NM0320700,Mountain,West,Region IV,City,FALSE,,34.71684,-106.806582
+New Mexico,VALENCIA,Peralta,NM032100X,Mountain,West,Region IV,City,FALSE,,,
+New Mexico,CIBOLA,Cibola County Sheriff's Office,NM0330000,Mountain,West,Region IV,County,FALSE,,35.15374,-107.853935
+New Mexico,CIBOLA,Grants Police Department,NM0330100,Mountain,West,Region IV,City,FALSE,,34.93205,-108.000255
+New Mexico,CIBOLA,Milan Police Department,NM0330200,Mountain,West,Region IV,City,FALSE,,34.93205,-108.000255
+New Mexico,NOT SPECIFIED,Laguna Tribal,NM0330300,Mountain,West,Region IV,Tribal,TRUE,2021-03-01T00:00:00.000Z,34.93205,-108.000255
+New Mexico,NOT SPECIFIED,Acoma Tribal,NM0330400,Mountain,West,Region IV,Tribal,TRUE,2021-01-01T00:00:00.000Z,34.93205,-108.000255
+New Mexico,NOT SPECIFIED,Pojoaque Tribal,NMDI02200,Mountain,West,Region IV,Tribal,TRUE,2021-01-01T00:00:00.000Z,35.884163,-106.01543
+New Mexico,NOT SPECIFIED,Jemez Pueblo,NMDI02300,Mountain,West,Region IV,Tribal,TRUE,2021-01-01T00:00:00.000Z,35.685071,-106.882619
+New Mexico,NOT SPECIFIED,Northern Pueblos Agency,NMDI05000,Mountain,West,Region IV,Tribal,TRUE,2021-01-01T00:00:00.000Z,35.513731,-105.966439
+New Mexico,NOT SPECIFIED,Southern Pueblos Agency,NMDI05100,Mountain,West,Region IV,Tribal,TRUE,2021-01-01T00:00:00.000Z,35.054002,-106.669064
+New Mexico,NOT SPECIFIED,Isleta Tribal,NMDI05700,Mountain,West,Region IV,Tribal,TRUE,2021-01-01T00:00:00.000Z,35.054002,-106.669064
+New Mexico,NOT SPECIFIED,Mescalero Tribal,NMDI07000,Mountain,West,Region IV,Tribal,TRUE,2021-01-01T00:00:00.000Z,35.054002,-106.669064
+New Mexico,NOT SPECIFIED,Zia Pueblo,NMDI08300,Mountain,West,Region IV,Tribal,TRUE,2021-01-01T00:00:00.000Z,,
+New Mexico,UNMAPPED COUNTY,New Mexico State Police,NMNSP0000,Mountain,West,Region IV,State Police,FALSE,,35.513731,-105.966439
