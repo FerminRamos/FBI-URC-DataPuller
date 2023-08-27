@@ -134,7 +134,7 @@ def getAgencySummary(ori, startYear, endYear):
 
                 totalCleared += int(cleared)
                 totalActual += int(actual)
-                total += totalCleared + totalActual
+                total = totalCleared + totalActual
 
                 subset += [total, totalCleared, totalActual]
 
