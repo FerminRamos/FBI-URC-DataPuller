@@ -81,7 +81,7 @@ def getSummarizedData(startYear, endYear):
         csvFile.readline()  # Pop Headers
         for line in csvReader:
             dataset.append([line[0], line[1], line[2], line[3]] + getAgencySummary(line[3], startYear, endYear) + [line[10], line[11]])
-            time.sleep(3)  # Prevents us from being rate-limited
+            time.sleep(5)  # Prevents us from being rate-limited
 
     # Creates Custom Headers
     headers = ["State", "County", "Agency", "Ori"]
@@ -126,9 +126,10 @@ def getAgencySummary(ori, startYear, endYear):
         total = 0
         totalCleared = 0
         totalActual = 0
+        rapeExclusiveCount = False  # Used to separate rape w/ rape-legacy when data is scrambled together
         subset = []
         for yearlyData in r:
-            if yearlyData['offense'] != "rape":  # FBI uses new "rape-legacy" terminology
+            if yearlyData['offense'] != "rape" and not rapeExclusiveCount:
                 cleared = yearlyData['cleared']
                 actual = yearlyData['actual']
 
@@ -139,7 +140,19 @@ def getAgencySummary(ori, startYear, endYear):
                 subset += [total, totalCleared, totalActual]
 
                 print(yearlyData)
+            elif yearlyData['offense'] == "rape":  # Handles scrambled data when offense = "Rape"
+                rapeExclusiveCount = True  # Reserves vars to only count rape offenses in next iteration
+                cleared = yearlyData['cleared']
+                actual = yearlyData['actual']
 
+                totalCleared += int(cleared)
+                totalActual += int(actual)
+                total = totalCleared + totalActual
+
+                subset += [total, totalCleared, totalActual]
+                print("***" + str(yearlyData))
+
+        rapeExclusiveCount = False
         dataset += [total, totalCleared, totalActual]
         print([total, totalCleared, totalActual])
         print("\n")
@@ -155,8 +168,8 @@ def getAgencySummary(ori, startYear, endYear):
 #  1. "getAllDepartments()" - To get list of ALL Law Enforcement Departments in the U.S.
 #  2. "getSummarizedData()" - To get statistics on all offenses documented per each department. If you only want data
 #                             for 1 department, just run it w/ 1 department in the CSV file (including headers ofc)
-API_KEY = "INSERT_YOUR_API_KEY_HERE"  # TODO: Insert YOUR API Key
+API_KEY = "YOUR_API_KEY_HERE"
 BASE_URL = "https://api.usa.gov/crime/fbi/cde/"
 
 # getAllDepartments()
-getSummarizedData(startYear=2000, endYear=2005)
+getSummarizedData(startYear=2015, endYear=2023)
